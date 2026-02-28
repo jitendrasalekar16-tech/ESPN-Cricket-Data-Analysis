@@ -1,65 +1,24 @@
-## 📌 Project Overview
+🏏 Cricket Analytics Dashboard – Power BI Practical Project #3
+I’m excited to share my 3rd hands-on Power BI practical project, focused on Cricket Performance Analytics.
+This dashboard transforms raw cricket match data into meaningful performance insights using interactive visuals and KPI-driven analysis.
+The objective of this project was to evaluate player performance trends, consistency, and impact using structured data modeling and DAX calculations.
+ 
 
-This project is a Power BI dashboard built using cricket data sourced from the web (ESPN).
-The objective of this dashboard is to analyze player and team performance using interactive visualizations and key performance indicators (KPIs).
+🔍 Key Insights Covered:
+• Player-wise Runs & Strike Rate analysis
+ • Boundary Contribution % (4s & 6s impact)
+ • Match-wise performance trends
+ • Batting Average & Consistency tracking
+ • Comparative analysis across players
+ 
 
----
+📊 Tools & Skills Applied:
+• Data Cleaning & Transformation using Power Query
+ • DAX Measures for Strike Rate, Batting Average & Boundary %
+ • KPI Cards & Dynamic Slicers
+ • Data Modeling & Relationship Building
+ • Interactive Dashboard Design
+ 
 
-## 📊 Data Source
-
-* Source: Web (ESPN Cricket Data)
-* Data extracted and transformed using **Power Query**
-* Cleaned and structured for analysis inside Power BI
-
----
-
-## ⚙️ Tools & Technologies Used
-
-* Power BI
-* Power Query (ETL Process)
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Interactive Visualizations
-
----
-
-## 📈 Key Features of Dashboard
-
-* Player performance analysis
-* Team comparison metrics
-* Match statistics breakdown
-* Strike Rate & Batting Average calculation
-* Interactive slicers & filters
-* KPI cards for quick insights
-
----
-
-## 🧮 Sample DAX Calculations
-
-Examples of measures used:
-
-* Batting Average
-* Strike Rate
-* Total Runs
-* Match Count
-* Performance Trends
-
----
-
-## 🎯 Key Learnings
-
-* Web data integration in Power BI
-* Data transformation and cleaning
-* Building relationships in data model
-* Writing optimized DAX measures
-* Dashboard storytelling
-
----
-
-
-## 📌 Future Improvements
-
-* Add bowling performance metrics
-* Advanced player comparison page
-* Predictive analysis using trends
-
+Through this project, I strengthened my understanding of how performance metrics — whether in sports or business — help in strategic decision-making and evaluation.
+Each practical project is helping me improve my analytical thinking and dashboard development skills step by step.
